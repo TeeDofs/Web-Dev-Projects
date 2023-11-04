@@ -1,0 +1,16 @@
+
+.hourForecastWidgetCard{
+    line-height: 1;
+    width: 135px;
+    flex: 0 0 auto;
+}
+
+.scrollable-card-list{
+    overflow-x: auto;
+}
+
+.scrollable-container {
+    display: flex;
+    gap: 10px;
+    width: max-content;
+}

@@ -1,0 +1,17 @@
+.weekDayForecastWidgetCard{
+    width: 250px;
+    margin-right: 10px;
+}
+
+.scrollable-container {
+    display: flex;
+    gap: 10px;
+    width: max-content;
+}
+
+.card-row{
+    display: flex;
+    overflow-x: auto;
+    justify-content: space-between;
+    gap: 5px;
+  }

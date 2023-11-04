@@ -1,0 +1,24 @@
+.currentWeather{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 280px;
+    width: 40%;
+}
+
+.centeredText {
+    text-align: center;
+}
+
+.currentWeatherWidget{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.currentWeatherIcon{
+    width: 100px;
+    height: 100px;
+}

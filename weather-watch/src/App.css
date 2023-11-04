@@ -1,0 +1,17 @@
+.App {
+  width: 100vw;
+  /* height: 100vh; */
+  padding-bottom: 50px;
+}
+
+.topSection {
+  padding: 40px;
+}
+
+.hourlyForecastSection {
+  margin-top: 20px;
+}
+
+.dailyForecastSection {
+  margin-top: 20px;
+}
