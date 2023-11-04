@@ -1,0 +1,4 @@
+# Web-Dev-Projects
+A repository containing my Web Development projects
+
+This repository contains the web development projects I have worked on so far. Today is the 4th of November, 2023 and I only recently started working on my own personal projects a few months ago after leaving my last job so I do not have a lot of them right now, however my portfolio will continue to grow with time. Feel free to check out this repository and all my other repositories so that you can see all my other works. If you want to access the web projects, clone them and navigate to the project directory in your command line and run npm start. That should set up the project to be run locally for you. However for the weather watch project the web page might not show up. If that is the case then it means that my open weather api is no longer active due to monetary issues. In that situaation if you already have a 
